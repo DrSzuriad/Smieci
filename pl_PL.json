@@ -248,7 +248,7 @@
   "building.names.mine": "Kopalnia",
   "building.names.forge": "Kuźnia",
   "building.names.sanctuary": "Sanktuarium",
-  "building.names.enchant": "Zaklnij Zwierzę",
+  "building.names.enchantanimal": "Zaklnij Zwierzę",
   "building.names.enchantwhale": "Zaklnij Wieloryba",
   "building.names.ice_bank": "Lodowy Bank",
   "building.names.iceport": "Obóz",
@@ -985,5 +985,4 @@
   "technology.names.shock": "Taktyka szokowa",
   "technology.names.hydrology": "Hydrologia",
   "technology.names.oceanology": "Oceanologia"
-  
 }
