@@ -939,6 +939,7 @@
   "gamemode.custom.description.button": "Skonfiguruj swoją grę i graj jak chcesz",
   "gamemode.sandbox": "Nieskończony",
   "gamemode.sandbox.description": "Graj jak chcesz przez dowolny czas,",
+  "gamesettings.map": "Typ mapy",
   "gamesettings.map.dryland": "Lądowy",
   "gamesettings.map.lakes": "Jeziora",
   "gamesettings.map.continents": "Kontynentalny",
@@ -946,10 +947,8 @@
   "gamesettings.map.waterworld": "Wodny świat",
   "gamesettings.size.huge": "Ogromna",
   "gamesettings.size.massive": "Masywna",
-  
   "tribes.cymanti": "Cymanti",
   "tribes.cymanti.info": "Cymanti to grupa Polytopian, która przeniosła się do bagnistego lasu i nauczyła się żyć z robakiem Ciru, który przyczepia się do ich twarzy i łączy się z ich mózgami.\nProwadzeni przez swoich Szamanów, Cymanti trenują gigantyczne robaki, używają swoich wrogów do nawożenia swoich farm grzybów i wydzielają wyniszczające trucizny pozwalające im pokonać wszystkich, którzy zagrażają ich bagnistemu domowi",
-  
   "unit.names.shaman": "Szaman",
   "unit.names.doomux": "Doomux",
   "unit.names.hexapod": "Hexapod",
@@ -958,7 +957,6 @@
   "unit.names.kiton": "Kiton",
   "unit.names.raychi": "Raychi",
   "unit.names.centipede": "Stonoga",
-  
   "unit.abilities.boost": "WZMOCNIENIE",
   "tooltip.ability.boost": "Tymczasowo zwiększa atak i prędkość pobliskich sojuszniczych jednostek.",
   "unit.abilities.creep": "PEŁZANIE",
@@ -969,16 +967,11 @@
   "tooltip.ability.poison": "Zatrute jednostki tracą wszystkie bonusy do obrony i w chwili śmieci rozsiewają zarodniki",
   "unit.abilities.eat": "ZJADANIE",
   "tooltip.ability.eat": "Ta jednostka zwiększa swoją długość za każdego zabitego wroga",
-  
   "player.abilities.decompose": "Rozbiórka",
   "tooltip.ability.decompose": "Rozbierz dowolny budynek w swoich granicach i odzyskaj jego pełny koszt w gwiazdach na koniec tury",
-  
   "action.info.boost": "Wzmocnienie",
   "action.info.decompose": "Rozbiórka",
-  
-  
   "resource.names.spores": "Zarodniki",
-  
   "building.names.fungi": "Grzyby",
   "building.names.mycelium": "Grzybnia",
   "building.names.clathrus": "Clathrus",
@@ -987,8 +980,6 @@
   "building.ability.heal": "{0} leczy każdą przyjazną jednostkę, która kończy turę obok niej.",
   "building.ability.bridge": "{0} tworzą pomost, po którym mogą poruszać się dowolne jednostki, ignorując typ terenu pod nimi.",
   "building.ability.network": "{1} łączy się z miastami i innymi Grzybniami poprzez {0}, w promieniu {2} kafli.",
-  
-  
   "technology.names.recycling": "Recykling",
   "technology.names.shock": "Taktyka szokowa",
   "technology.names.hydrology": "Hydrologia",
