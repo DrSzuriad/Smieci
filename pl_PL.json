@@ -566,8 +566,8 @@
   "techview.completed.info": "Już odkryłeś tę technologię.",
   "techview.expensive.info": "Brakuje ci gwiazdek? Zakończ swoją turę, aby otrzymać ich więcej.",
   "techview.research": "ODKRYJ",
-  "action.info.attack": "zaatakuj tą jednostką. Wybierz jednostkę i stuknij dowolny z czerwonych celów jeśli chcesz zaatakować",
-  "action.info.recover": "Odzyskaj",
+  "action.info.attack": "Zaatakuj tą jednostką. Wybierz jednostkę i stuknij dowolny z czerwonych celów jeśli chcesz zaatakować",
+  "action.info.recover": "Uzdrów",
   "action.info.healothers": "Ulecz innych",
   "action.info.train": "wyszkolić jednostkę w tym mieście. Jednostki mogą być użyte do eksploracji świata i atakowania wrogów i obrony miast",
   "action.info.move": "przesunąć tę jednostkę. Wybierz jednostkę i dotknij któregokolwiek z niebieskich celów",
@@ -598,7 +598,7 @@
   "stringtools.typelist.and": "i",
   "topbar.score": "Wynik",
   "topbar.turn": "Tura",
-  "topbar.stars": "Gwiazdki",
+  "topbar.stars": "Gwiazdki (+{0})",
   "bottommenu.gamestats": "Statystyki gry",
   "bottommenu.menu": "Menu",
   "bottommenu.nextturn": "Następna tura",
@@ -984,4 +984,5 @@
   "technology.names.shock": "Taktyka szokowa",
   "technology.names.hydrology": "Hydrologia",
   "technology.names.oceanology": "Oceanologia"
+  
 }
