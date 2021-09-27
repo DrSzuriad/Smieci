@@ -465,7 +465,7 @@
   "wcontroller.examine.giant": "Napotkałeś na kogoś. To {0}! Jest przyjazny i dołączy do twej armii!",
   "wcontroller.examine.explorer": "Spotykasz miejscowych, którzy oprowadzają cię po tej ziemi.",
   "wcontroller.examine.explorer.title": "Odkrywca",
-  "wcontroller.examine.tech": "Znalazłeś kilka starych zwojów, kryjących sekret {0}. {1}.",
+  "wcontroller.examine.tech": "Znalazłeś kilka starych zwojów, kryjących sekret {0}.",
   "wcontroller.examine.tech.title": "Zwoje Mądrości",
   "wcontroller.examine.stars": "Starożytne ruiny są wypełnione cennymi dobrami!",
   "wcontroller.examine.stars.title": "Zasoby",
