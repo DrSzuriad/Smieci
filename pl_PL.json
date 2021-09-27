@@ -924,5 +924,15 @@
   "friendlist.friendshipstate.accepted": "Prośba o przyjaźń przyjęta. Jesteście teraz przyjaciółmi.",
   "friendlist.friendshipstate.sentrequest": "Prośba o przyjaźń wysłana. Czekam na odpowiedź.",
   "friendlist.friendshipstate.receivedrequest": "{0} wysłał do Ciebie prośbę o przyjęcie do grona znajomych. Jeśli je zaakceptujesz, będziecie mogli zapraszać się nawzajem do gier wieloosobowych.",
-  "friendlist.friendshipstate.rejected": "Prośba o przyjaźń odrzucona."
+  "friendlist.friendshipstate.rejected": "Prośba o przyjaźń odrzucona.",
+  "settings.fullscreen": "Automatyczny",
+  "settings.antialias": "Pełny ekran",
+  "settings.hideadvanced": "Antyaliasing",
+  "settings.scale": "Rozmiar interfejsu",
+  "settings.scale.auto": "Automatyczny",
+  "settings.scale.small": "Mały",
+  "settings.scale.medium": "Średni",
+  "settings.scale.large": "Duży",
+  "settings.scale.veylarge": "Bardzo duży",
+  "": "",
 }
