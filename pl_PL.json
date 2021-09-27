@@ -920,7 +920,7 @@
   "friendlist.acceptinvite.button": "Zaakceptuj zaproszenie",
   "friendlist.friendshipstate": "Status znajomych: {0}",
   "friendlist.friendshipstate.none": "Nie jesteś przyjacielem tego gracza. Może chciałbyś nim zostać?",
-  "friendlist.friendshipstate.isyou": "To ty.",
+  "friendlist.friendshipstate.isyou": "To jesteś ty.",
   "friendlist.friendshipstate.accepted": "Prośba o przyjaźń przyjęta. Jesteście teraz przyjaciółmi.",
   "friendlist.friendshipstate.sentrequest": "Prośba o przyjaźń wysłana. Czekam na odpowiedź.",
   "friendlist.friendshipstate.receivedrequest": "{0} wysłał do Ciebie prośbę o przyjęcie do grona znajomych. Jeśli je zaakceptujesz, będziecie mogli zapraszać się nawzajem do gier wieloosobowych.",
