@@ -928,6 +928,7 @@
   "settings.fullscreen": "Pełny ekran",
   "settings.antialias": "Antyaliasing",
   "settings.hideadvanced": "Ukryj ustawienia zaawansowane",
+  "settings.showadvanced": "Ustawienia zaawansowane",
   "settings.scale": "Rozmiar interfejsu",
   "settings.scale.auto": "Automatyczny",
   "settings.scale.small": "Mały",
