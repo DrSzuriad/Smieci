@@ -972,6 +972,7 @@
   "tooltip.ability.decompose": "Rozbierz dowolny budynek w swoich granicach i odzyskaj jego pełny koszt w gwiazdach na koniec tury",
   "action.info.boost": "Wzmocnienie",
   "action.info.decompose": "Rozbiórka",
+  "action.info.explode": "Eksplozja",
   "resource.names.spores": "Zarodniki",
   "building.names.fungi": "Grzyby",
   "building.names.mycelium": "Grzybnia",
