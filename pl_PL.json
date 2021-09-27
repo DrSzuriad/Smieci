@@ -983,17 +983,10 @@
   "bulding.names.clathrus": "Clathrus",
   "bulding.names.algae": "Algi",
   "bulding.ability.poison": "Trucizna",
- # "bulding.ability.heal": "",
- # "bulding.ability.bridge": "",
- # "bulding.ability.network": "",
   
   
   "technology.names.recycling": "Recykling",
   "technology.names.shock": "Taktyka szokowa",
   "technology.names.hydrology": "Hydrologia",
-  "technology.names.oceanology": "Oceanologia",
-  
-  
-  
-  "": ""
+  "technology.names.oceanology": "Oceanologia"
 }
