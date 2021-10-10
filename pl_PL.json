@@ -992,7 +992,12 @@
   "onlineview.matchmaking": "Losowa gra",
   "onlineview.randommatch.start": "Rozpocznij grę z losowym przeciwnikiem",
   "gamesettings.findmatch": "Znajdź grę",
-  "gamesettings.info.matchmaking.gamemode": "aaa",
-  "gamesettings.info.matchmaking.timelimit": "limit tur: aaa",
-  "gamesettings.unspecified": "Wszytkie"
+  "gamesettings.info.matchmaking.gamemode": "{1}",
+  "gamesettings.info.matchmaking.timelimit": "Czas tury: {1}",
+  "gamesettings.info.matchmaking.opponentcount": "Przeciwnicy: ",
+  "gamesettings.info.matchmaking.mappreset": "Typ mapy: {1}",
+  "gamesettings.info.matchmaking.mapsize": "Ilość kafli: {1}",
+  "gamesettings.unspecified": "Wszytkie",
+  "gamesettings.size.small": "Niewielka",
+  "gamesettings.timelimit": "Czas tury"
 }
