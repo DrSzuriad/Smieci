@@ -1003,5 +1003,6 @@
   "gamesettings.info.gamepreferences.info": "Im więcej preferencji zastosujesz, tym dłużej będziesz czekać na znalezienie pasującego przeciwnika. Więc jeśli masz ochotę na szybką grę, pozostaw wszystkie preferencje nieustawione.",
   "playerpickerview.maptype": "Typ mapy: {0}",
   "friendlist.new.info.alias": "Wyszukaj nazwę swojego przyjaciela.",
-  "onlineview.loading.title": "Ładowanie..."
+  "onlineview.loading.title": "Ładowanie...",
+  "actionbox.unit.Poisoned": "Zatruta"
 }
