@@ -989,6 +989,10 @@
   "buttons.reconnect": "Połącz",
   "backend.connecting": "Łączenie z serwerem ...",
   "backend.connecting.failed": "Nie można nawiązać połączenia z serwerem",
-  "gamesettings.info.matchmaking.timelimit": "limit tur: {1}",
+  "onlineview.matchmaking": "Losowa gra",
+  "onlineview.randommatch.start": "Rozpocznij grę z losowym przeciwnikiem",
+  "gamesettings.findmatch": "Znajdź grę",
+  "gamesettings.info.matchmaking.gamemode": "aaa",
+  "gamesettings.info.matchmaking.timelimit": "limit tur: aaa",
   "gamesettings.unspecified": "Wszytkie"
 }
