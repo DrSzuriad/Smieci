@@ -1000,5 +1000,8 @@
   "gamesettings.unspecified": "Wszytkie",
   "gamesettings.size.small": "Niewielka",
   "gamesettings.timelimit": "Czas tury",
-  "gamesettings.info.gamepreferences.info": "Im więcej preferencji zastosujesz, tym dłużej będziesz czekać na znalezienie pasującego przeciwnika. Więc jeśli masz ochotę na szybką grę, pozostaw wszystkie preferencje nieustawione."
+  "gamesettings.info.gamepreferences.info": "Im więcej preferencji zastosujesz, tym dłużej będziesz czekać na znalezienie pasującego przeciwnika. Więc jeśli masz ochotę na szybką grę, pozostaw wszystkie preferencje nieustawione.",
+  "playerpickerview.maptype": "Typ mapy: {0}",
+  "friendlist.new.info.alias": "Wyszukaj nazwę swojego przyjaciela.",
+  "onlineview.loading.title": "Ładowanie..."
 }
