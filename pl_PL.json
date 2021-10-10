@@ -992,12 +992,13 @@
   "onlineview.matchmaking": "Losowa gra",
   "onlineview.randommatch.start": "Rozpocznij grę z losowym przeciwnikiem",
   "gamesettings.findmatch": "Znajdź grę",
-  "gamesettings.info.matchmaking.gamemode": "{1}",
-  "gamesettings.info.matchmaking.timelimit": "Czas tury: {1}",
-  "gamesettings.info.matchmaking.opponentcount": "Przeciwnicy: ",
-  "gamesettings.info.matchmaking.mappreset": "Typ mapy: {1}",
-  "gamesettings.info.matchmaking.mapsize": "Ilość kafli: {1}",
+  "gamesettings.info.matchmaking.gamemode": "{0}",
+  "gamesettings.info.matchmaking.timelimit": "Czas tury: {0}",
+  "gamesettings.info.matchmaking.opponentcount": "Przeciwnicy: {0}",
+  "gamesettings.info.matchmaking.mappreset": "Typ mapy: {0}",
+  "gamesettings.info.matchmaking.mapsize": "Ilość kafli: {0}",
   "gamesettings.unspecified": "Wszytkie",
   "gamesettings.size.small": "Niewielka",
-  "gamesettings.timelimit": "Czas tury"
+  "gamesettings.timelimit": "Czas tury",
+  "gamesettings.info.gamepreferences.info": "Im więcej preferencji zastosujesz, tym dłużej będziesz czekać na znalezienie pasującego przeciwnika. Więc jeśli masz ochotę na szybką grę, pozostaw wszystkie preferencje nieustawione."
 }
