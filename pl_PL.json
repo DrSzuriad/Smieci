@@ -989,7 +989,6 @@
   "buttons.reconnect": "Połącz",
   "backend.connecting": "Łączenie z serwerem ...",
   "backend.connecting.failed": "Nie można nawiązać połączenia z serwerem",
-  "gamesettings.info.matchmaking.gamemode": "{1}",
   "gamesettings.info.matchmaking.timelimit": "limit tur: {1}",
   "gamesettings.unspecified": "Wszytkie"
 }
