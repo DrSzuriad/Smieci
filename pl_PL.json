@@ -296,7 +296,7 @@
   "unit.abilities.build": "ZBUDUJ",
   "unit.abilities.persist": "WYTRWAŁOŚĆ",
   "unit.abilities.convert": "KONWERTOWANIE",
-  "unit.abilities.heal": "ULECZANIE",
+  "unit.abilities.heal": "LECZENIE",
   "unit.abilities.swim": "PŁYWANIE",
   "unit.abilities.carry": "TRANSPORT",
   "unit.abilities.grow": "ROŚNIĘCIE",
@@ -1005,5 +1005,5 @@
   "friendlist.new.info.alias": "Wyszukaj nazwę swojego przyjaciela.",
   "onlineview.loading.title": "Ładowanie...",
   "actionbox.unit.Poisoned": "Zatruta",
-  "units.name.mindbender": "Manipulator umysłów"
+  "unit.names.mindbender": "Manipulator umysłów"
 }
