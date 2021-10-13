@@ -309,10 +309,10 @@
   "unit.abilities.autofreeze": "AUTO-ZAMRAŻANIE",
   "unit.abilities.skate": "ŁYŻWIARSTWO",
   "unit.abilities.fortify": "FORTYFIKACJA",
-  "player.abilities.destroy": "niszczenie",
-  "player.abilities.disband": "zwalnianie",
-  "player.abilities.literacy": "literatura",
-  "player.abilities.glide": "ślizganie",
+  "player.abilities.destroy": "Niszczenie",
+  "player.abilities.disband": "Zwalnianie",
+  "player.abilities.literacy": "Literatura",
+  "player.abilities.glide": "Ślizganie",
   "resource.names.fruit": "owoce",
   "resource.names.crop": "plon",
   "resource.names.fish": "ryba",
@@ -1004,5 +1004,6 @@
   "playerpickerview.maptype": "Typ mapy: {0}",
   "friendlist.new.info.alias": "Wyszukaj nazwę swojego przyjaciela.",
   "onlineview.loading.title": "Ładowanie...",
-  "actionbox.unit.Poisoned": "Zatruta"
+  "actionbox.unit.Poisoned": "Zatruta",
+  "units.name.mindbender": "Manipulator umysłów"
 }
