@@ -1005,5 +1005,7 @@
   "friendlist.new.info.alias": "Wyszukaj nazwę swojego przyjaciela.",
   "onlineview.loading.title": "Ładowanie...",
   "actionbox.unit.Poisoned": "Zatruta",
-  "unit.names.mindbender": "Manipulator umysłów"
+  "unit.names.mindbender": "Manipulator umysłów",
+  "unit.abilities.independent": "NIEPRZYNALEŻNA",
+  "tooltip.ability.independent": "Jednostka ta nie wymaga żadnego wsparcia ze strony swojego macierzystego miasta."
 }
